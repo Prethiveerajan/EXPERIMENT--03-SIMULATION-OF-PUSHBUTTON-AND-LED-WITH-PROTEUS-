@@ -69,8 +69,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
-Developed by: DELLI PRIYA L
-Reference number: 212222230029
+Developed by: Prethiveerajan P
+Reference number: 212221230079
 
 #include "main.h"
 #include"stdio.h"
@@ -102,12 +102,15 @@ int main(void)
 ```
 
 ## Output screen shots of proteus  :
-### LED OFF:
-![image](https://github.com/Priya-Loganathan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/121166075/35005c9f-20a2-4725-8ebc-6ed8d36cb03f)
-### LED ON:
-![image](https://github.com/Priya-Loganathan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/121166075/d00b6335-8068-42a4-9969-228642cb0eec)
-### CIRCUIT DIAGRAM:
-![image](https://github.com/Priya-Loganathan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/121166075/406836be-0663-456e-b08b-fb990e52334a)
+### LED OFF:![off](https://github.com/Prethiveerajan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/94233064/12436fb5-5cbd-4330-a124-5612a2133f10)
+
+
+### LED ON:![on](https://github.com/Prethiveerajan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/94233064/ffe5910f-5bcd-42c7-a87f-edd0a3e30949)
+
+
+### CIRCUIT:![circuit](https://github.com/Prethiveerajan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/94233064/1a5cf666-f4bb-4254-a59a-55725d164590)
+
+
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
